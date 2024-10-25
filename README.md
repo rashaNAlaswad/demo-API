@@ -1,7 +1,7 @@
 # Flutter dealing with API
 
 ## Overview
-This project is a demo API that allows users to sign in, sign up, and manage their profiles. The API uses the famous request API (GET, PUT, PATCH, and DELETE) to perform CRUD (Create, Read, Update, and Delete) operations.
+The Demo API app allows users to sign in, sign up, and manage their profiles. This project uses the famous request API (GET, PUT, PATCH, and DELETE) to perform CRUD (Create, Read, Update, and Delete) operations.
 
 ## Features
 - **Sign In**: Users can sign in with their email and password.
@@ -24,4 +24,4 @@ This project uses the following dependencies:
 - [cached_network_image](https://pub.dev/packages/cached_network_image): Library for caching network images
 - [animated_text_kit](https://pub.dev/packages/animated_text_kit): Library for animating text
 - [flutter_screenutil](https://pub.dev/packages/flutter_screenutil): Library for screen size adaptation
-- [google_fonts] (https://pub.dev/packages/google_fonts) : ALibrary for using Google Fonts
+- [google_fonts](https://pub.dev/packages/google_fonts): Library for using Google Fonts

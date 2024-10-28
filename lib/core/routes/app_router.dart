@@ -20,19 +20,19 @@ class AppRouter {
       case Routes.signIn:
         return MaterialPageRoute(
             builder: (context) => BlocProvider(
-                  create: (context) => SigninCubit(sl()),
+                  create: (context) => sl<SigninCubit>(),
                   child: const SignInScreen(),
                 ));
       case Routes.signUp:
         return MaterialPageRoute(
             builder: (context) => BlocProvider(
-                  create: (context) => SignupCubit(sl()),
+                  create: (context) => sl<SignupCubit>(),
                   child: const SignUpScreen(),
                 ));
       case Routes.profile:
         return MaterialPageRoute(
             builder: (context) => BlocProvider(
-                  create: (context) => UserCubit(sl())..getUserData(),
+                  create: (context) => sl<UserCubit>()..getUserData(),
                   child: const ProfileScreen(),
                 ));
       case Routes.updateProfile:

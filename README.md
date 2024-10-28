@@ -1,7 +1,7 @@
 # Flutter dealing with API
 
 ## Overview
-The Demo API app allows users to sign in, sign up, and manage their profiles. This project uses the famous request API (GET, PUT, PATCH, and DELETE) to perform CRUD (Create, Read, Update, and Delete) operations.
+The Demo API app allows users to sign in, sign up, and manage their profiles. This project uses the most popular HTTP request method (GET, PUT, PATCH, and DELETE) to perform CRUD (Create, Read, Update, and Delete) operations.
 
 ## Features
 - **Sign In**: Users can sign in with their email and password.

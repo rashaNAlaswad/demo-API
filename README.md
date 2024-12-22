@@ -25,3 +25,8 @@ This project uses the following dependencies:
 - [animated_text_kit](https://pub.dev/packages/animated_text_kit): Library for animating text
 - [flutter_screenutil](https://pub.dev/packages/flutter_screenutil): Library for screen size adaptation
 - [google_fonts](https://pub.dev/packages/google_fonts): Library for using Google Fonts
+
+## Video
+
+https://github.com/user-attachments/assets/07af9425-68c4-4861-8a73-8737949191aa
+
